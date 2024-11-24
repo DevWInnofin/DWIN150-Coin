@@ -1,6 +1,6 @@
 # DWIN Stablecoin
 
-link to: [0x24853fFc4cd238Fc6e673c88181DF4bF9a5828eC](https://optimism.blockscout.com/token/0x24853fFc4cd238Fc6e673c88181DF4bF9a5828eC).
+link to: [0x26E21053AAC8cf242eC33989834C59df36f835B3](https://optimism.blockscout.com/address/0x26E21053AAC8cf242eC33989834C59df36f835B3).
 
 
 <img src="logo.png" width="100">
